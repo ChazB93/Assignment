@@ -1,0 +1,117 @@
+.hero{
+   background-color: #1F2937;
+   align-items: center;
+   justify-content: center;
+   width: 1400px;
+   height: auto;
+   align-items: center;
+   margin-left: 250px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin-right: 150px;
+  }
+  
+  li {
+    float: right;
+  }
+
+  li:last-child{
+    float: left;
+    font-size: 24px;
+    color: #F9FAF8;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    margin-top: 30px;
+  }
+
+  .heroKamenya{
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 165px;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  h1{
+    font-size: 48px;
+    color: #F9FAF8;
+    margin-left: 100px;
+  }
+
+  .subcontent{
+    display: flex;
+  }
+  .subtext{
+    margin-left: 100px;
+  }
+
+  .subimage{
+    text-align: center;
+    align-items: center;
+   justify-content: center;
+   margin-right: 160px;
+  }
+
+  p{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
+    text-align: justify;
+    text-justify: inter-word;
+
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  .mainconte{
+    text-align: center;
+    margin: 100px;
+
+  }
+
+  .codetext{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-family: light italic;
+    height: 300px;
+    width: 1400px;
+    margin-left: 250px;
+  }
+
+  .callaction{
+    background-color: #3882F6;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 60px;
+    height: 100px;
+    width: 800px;
+    margin-left: 500px;
+  }
+
+  .footer{
+    background-color: #1F2937;
+    text-align: center;
+    align-items: center;
+    color: #F9FAF8;
+    height: 70px;
+    width: 1400px;
+    margin-left: 250px;
+    margin-top: 60px ;
+    padding-top: 50px;
+}
